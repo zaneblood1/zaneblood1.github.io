@@ -1,34 +1,29 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student @ Caltech
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image:  prof_pic.jpg #prof_pic_2.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>zblood@caltech.edu</p>
+    <p>California Institute of Technology</p>
+    <p>Pasadena, CA</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a first year PhD student in the Applied Physics Department at the California Institute of Technology studying Cosmology in Professor Kimmy Wu's research group. My current research project involves migrating the existing Julia language package <a href = "https://github.com/marius311/CMBLensing.jl">CMBLensing.jl</a> into a JAX / PyTorch compatible framework for better integration with future machine learning and data driven projects that we will develop. You can check in on the current progress of the JAX version <a href="https://github.com/zaneblood1/CMB-Maximization">here</a> and try giving it a spin for yourself.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before starting my PhD, I worked for 2 years as a full-stack software developer at Epic Systems Corporation - one of the largest electronic medical record vendors in the United States. I was a part of the radiology app and helped co-develop one of our team's AI functionalities which used prompt engineering to extract discrete data from free text radiological reports. At Epic we worked with standard technologies and frameworks such as C#, TypeScript, React, and SQL. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I completed my undergraduate degree in Physics at Cornell's College of Arts and Sciences in Ithaca, NY in 2023. At Cornell, I worked in Professor Jared Maxson's experimental accelerator research group. My main research project involved designing, machining, and installing various diagnostics for a table-top accelerator used in ultra-fast electron diffraction experiments. In 2021, I also completed a Research Experience for Undergraduates at Purdue University where I studied the super-conducting diode effect with Professor Jukka Vayrynen. Our work was published in <a href = "https://arxiv.org/abs/2302.04277">this paper here</a>.
