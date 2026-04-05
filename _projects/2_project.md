@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bird Murmuration
-description: An implementation of the Boid algorithm to simulate animal flocking behavior in 2D and 3D. 
+description: An implementation of the Boid algorithm to simulate animal flocking behavior in 2D and 3D.
 img: assets/img/boids.png
 importance: 6
 category: work
@@ -18,4 +18,3 @@ The Boid algorithm simulates bird murmuration or other insect-like swarm behavio
         {% include figure.liquid loading="eager" path="assets/img/boids2D.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-

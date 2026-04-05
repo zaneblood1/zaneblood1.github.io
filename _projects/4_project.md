@@ -15,4 +15,4 @@ The animation below shows a simulation of a 2D Gaussian wave packet with an init
     </div>
 </div>
 
-In the future I would like to make this fully 3-D and run a few simulations on different geometries such as a hard shell sphere or a cubic crystal of discrete lattice points. It would also be interesting to add multiple initial wave-packets and essentially simulate a true game of quantum pool. This is probably one of my favorite projects I have done visually, and I think it is really cool to watch the system oscillate through the various modes it cycles through. 
+In the future I would like to make this fully 3-D and run a few simulations on different geometries such as a hard shell sphere or a cubic crystal of discrete lattice points. It would also be interesting to add multiple initial wave-packets and essentially simulate a true game of quantum pool. This is probably one of my favorite projects I have done visually, and I think it is really cool to watch the system oscillate through the various modes it cycles through.

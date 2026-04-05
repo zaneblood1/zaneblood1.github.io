@@ -58,32 +58,13 @@
       "name": "Scientific Computing",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "JAX",
-        "Numpy",
-        "Pandas",
-        "PyTorch",
-        "Matlab",
-        "Julia",
-        "High Performance Computing",
-        "Machine Learning"
-      ]
+      "keywords": ["JAX", "Numpy", "Pandas", "PyTorch", "Matlab", "Julia", "High Performance Computing", "Machine Learning"]
     },
     {
       "name": "Software Development",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "TypeScript",
-        "JavaScript",
-        "React",
-        "C#",
-        "MUMPS / Cache",
-        "Bash",
-        "SQL",
-        "GIT",
-        "SVN"
-      ]
+      "keywords": ["TypeScript", "JavaScript", "React", "C#", "MUMPS / Cache", "Bash", "SQL", "GIT", "SVN"]
     }
   ],
   "interests": [
