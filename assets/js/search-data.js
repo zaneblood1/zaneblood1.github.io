@@ -40,26 +40,26 @@ ninja.data = [{
           description: "A JAX compatible version of the original CMBLensing.jl Julia package",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-bird-murmuration",
-          title: 'Bird Murmuration',
-          description: "An implementation of the Boid algorithm to simulate animal flocking behavior in 2D and 3D.",
+            },},{id: "projects-sorting-algorithms",
+          title: 'Sorting Algorithms',
+          description: "A Graphical User Interface written in Processing which allows the user to shuffle a random array of columns and then visualize different sorting algorithms in real time.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
             },},{id: "projects-quantum-billiards",
           title: 'Quantum Billiards',
           description: "A Crank-Nicholson simulation of a 2D game of quantum billiards",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project.html";
-            },},{id: "projects-sorting-algorithms",
-          title: 'Sorting Algorithms',
-          description: "A Graphical User Interface written in Processing which allows the user to shuffle a random array of columns and then visualize different sorting algorithms in real time.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project.html";
+              window.location.href = "/projects/3_project.html";
             },},{id: "projects-searching-algorithms",
           title: 'Searching Algorithms',
           description: "A second GUI written in Processing which allows the user to shuffle a random map of blocks and then visualize different searching algorithms in real time such as Djikstra&#39;s or DFS.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project.html";
+              window.location.href = "/projects/4_project.html";
+            },},{id: "projects-bird-murmuration",
+          title: 'Bird Murmuration',
+          description: "An implementation of the Boid algorithm to simulate animal flocking behavior in 2D and 3D.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project.html";
             },},{
         id: 'social-email',
         title: 'email',
